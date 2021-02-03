@@ -1,4 +1,4 @@
-<img src="https://github.com/tomchen/stack-icons/raw/master/logos/react.svg" width="64" height="64"/>
+<img src="https://github.com/tomchen/stack-icons/raw/master/logos/react.svg" width="32" height="32"/>
  
 ### Hi there 👋, I'm David Biagiola. I'm a full stack developer. Welcome to my gh page! <br>
  
