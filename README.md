@@ -5,8 +5,8 @@
 <<!--Resume:  [David Biagiola Resume](https://resume.christinakopecky.com) (PDF download) -->
  
 🔭 *Currently working on*:  Facebook clone and Instagram clone using MERN stack: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Facebook Clone]<img src="https://github.com/tomchen/stack-icons/raw/master/logos/facebook.svg" alt="JavaScript" style="max-width:100%;" width="21px" height="21px">(https://facebookclonedemo.herokuapp.com/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Instagram Clone]<img src="https://github.com/tomchen/stack-icons/raw/master/logos/instagram.svg" alt="instagram" style="max-width:100%;" width="21px" height="21px">(https://instagramclonedemo.herokuapp.com/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/tomchen/stack-icons/raw/master/logos/facebook.svg" alt="facebook" style="max-width:100%;" width="21px" height="21px">[Facebook Clone](https://facebookclonedemo.herokuapp.com/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/tomchen/stack-icons/raw/master/logos/instagram.svg" alt="instagram" style="max-width:100%;" width="21px" height="21px">[Instagram Clone](https://instagramclonedemo.herokuapp.com/)<br>
  
 🌱 *Currently Learning*: React-Native and Spring Boot<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering remote job.<br>
