@@ -5,8 +5,10 @@
 <<!--Resume:  [David Biagiola Resume](https://resume.christinakopecky.com) (PDF download) -->
  
 🔭 *Currently working on*:  Facebook clone and Instagram clone using MERN stack: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="padding-top: 5px" width="21px" height="21px"/> [Facebook Clone](https://facebookclonedemo.herokuapp.com/){:target="_blank"}<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="padding-top: 5px"  width="21px" height="21px"/> [Instagram Clone](https://instagramclonedemo.herokuapp.com/){:target="_blank"}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="padding-top: 5px" width="21px" height="21px"/> [Facebook Clone](https://facebookclonedemo.herokuapp.com/){:target="_blank" rel="noopener"}<br>
+<!--<a href="example.com" target="_blank">New Tab</a>-->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="padding-top: 5px"  width="21px" height="21px"/> [Instagram Clone](https://instagramclonedemo.herokuapp.com/){:target="_blank" rel="noopener"}<br>
  
 🌱 *Currently Learning*: React-Native and Spring Boot<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering remote job.<br>
