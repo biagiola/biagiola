@@ -14,8 +14,8 @@
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering remote job.<br>
 💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" width="12px" height="12px"/>[Email](davidbiagiola5@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="12px" height="12px"/>[Twitter](https://www.twitter.com/biagioladavid)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" width="21px" height="21px"/>[Email](davidbiagiola5@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="21px" height="21px"/>[Twitter](https://www.twitter.com/biagioladavid)
 
 ⚡ Fun facts:<br> 
 😄 Hobbies: I can't live without music! Running! Play some guitar and Learning english :us: and a little of deustch :de: <br>
