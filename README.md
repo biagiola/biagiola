@@ -1,7 +1,7 @@
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/javascript.svg" alt="JavaScript" style="max-width:100%;" width="21px" height="21px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/typescript-icon.svg" alt="Typescript" style="max-width:100%;" width="21px" height="21px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs-icon.svg" alt="Node.js" style="max-width:100%;" width="21px" height="21px">
-<img src="https://github.com/tomchen/stack-icons/raw/master/logos/express.svg" alt="Express" style="max-width:100%;" width="21px" height="21px">
+<img src="https://github.com/tomchen/stack-icons/raw/master/logos/expressjs.svg" alt="Express" style="max-width:100%;" width="21px" height="21px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/react.svg" alt="React" style="max-width:100%;" width="21px" height="21px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/redux.svg" alt="Redux" style="max-width:100%;" width="21px" height="21px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/java.svg" alt="Java" style="max-width:100%;" width="21px" height="21px">
@@ -25,7 +25,6 @@
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/visual-studio-code.svg" alt="Visual Studio Code" style="max-width:100%;" width="21px" height="21px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/material-ui.svg" alt="Material UI" style="max-width:100%;" width="21px" height="21px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/adobe-photoshop.svg" alt="Adobe Photoshop" style="max-width:100%;" width="21px" height="21px">
-<img src="https://github.com/tomchen/stack-icons/raw/master/logos/c.svg" alt="C" style="max-width:100%;" width="21px" height="21px">width="21px" height="21px"> width="21px" height="21px">
 
 ### Hi there 👋, I'm David Biagiola. I'm a full stack developer. Welcome to my gh page! <br>
  
