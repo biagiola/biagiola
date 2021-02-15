@@ -2,10 +2,10 @@
 
 ### Hi there 👋, I'm David Biagiola. I'm a full stack developer. Welcome to my github page! <br>
  
-<<!--Resume:  [David Biagiola Resume](https://resume.christinakopecky.com) (PDF download) -->
+<!--Resume:  [David Biagiola Resume](https://resume.christinakopecky.com) (PDF download) -->
  
 🔭 *Currently working on*:  Facebook clone and Instagram clone using MERN stack: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="margin-top: 5px" width="21px" height="21px"/> [Facebook Clone](https://facebookclonedemo.herokuapp.com/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="margin-top: 5px" width="21px" height="21px"/> [Facebook Clone](https://facebook2021.herokuapp.com/)<br>
 <!--<a href="example.com" target="_blank">New Tab</a>-->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="padding-top: 5px"  width="21px" height="21px"/> [Instagram Clone](https://instagramclonedemo.herokuapp.com/)<br>
