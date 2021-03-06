@@ -18,6 +18,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="21px" height="21px"/>[Twitter](https://www.twitter.com/biagioladavid)
 
 ⚡ Fun facts:<br> 
-😄 Hobbies: I can't live without music! Running! Play some guitar and Learning english :us: and a little of deustch :de: <br>
+😄 Hobbies: I can't live without music! Running! Play some guitar and Learning english!!<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is winter :smile: <br>
