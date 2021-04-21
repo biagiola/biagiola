@@ -17,7 +17,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" width="21px" height="21px"/><span style="margin-bottom: 5px">[Email](davidbiagiola5@gmail.com)</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="21px" height="21px"/>[Twitter](https://www.twitter.com/biagioladavid)
 
-⚡ Fun facts:<br> 
 😄 Hobbies: I can't live without music! Love the nature! and always interesed in Borges and Asimov's tales!!<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is winter :smile: <br>
