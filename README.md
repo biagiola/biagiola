@@ -5,10 +5,10 @@
 <!--Resume:  [David Biagiola Resume](https://resume.christinakopecky.com) (PDF download) -->
  
 🔭 *Currently working on*:  Facebook and Instagram Clone using MERN stack: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="margin-top: 5px" width="21px" height="21px"/> [Facebook Clone](https://facebook2021.herokuapp.com/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="margin-top: 5px" width="21px" height="21px"/> Facebook Clone: https://facebook2021.herokuapp.com<br>
 <!--<a href="example.com" target="_blank">New Tab</a>-->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="padding-top: 5px"  width="21px" height="21px"/> [Instagram Clone](https://instagramclonedemo.herokuapp.com/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" style="padding-top: 5px"  width="21px" height="21px"/> Instagram Clone https://instagram-2021.herokuapp.com<br>
  
 🌱 *Currently Learning*: React-Native and Spring Boot<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering remote job.<br>
@@ -18,6 +18,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="21px" height="21px"/>[Twitter](https://www.twitter.com/biagioladavid)
 
 ⚡ Fun facts:<br> 
-😄 Hobbies: I can't live without music! Love the nature! and always interesed in J.L. Borges and Asimov's tales!!<br>
+😄 Hobbies: I can't live without music! Love the nature! and always interesed in Borges and Asimov's tales!!<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is winter :smile: <br>
