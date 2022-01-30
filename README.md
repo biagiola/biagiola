@@ -1,2 +1,2 @@
-### Hallo 👋 Wilkommen to my github page! <br>
+### Hi there👋 Welcome to my github page! <br>
  
